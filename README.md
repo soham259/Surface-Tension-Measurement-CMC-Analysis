@@ -73,6 +73,9 @@ Setting F↑ = F↓ with cos θ ≈ 1:
 
 ## 📊 Results
 
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/c2003ace-768e-4ea0-9d62-8df33d1a23fb" />
+
+
 ### Raw Observations
 
 | Liquid | Mean Rise Height (cm) | σ (N/m) |
